@@ -33,7 +33,7 @@ def gcd():
             gcd=i
     print("GCD of two numbers is:",gcd)
 ## Output:
-![gcd of two number](./SS.png)
+![gcd of two number](./SS.PNG)
 
 
 ## Result:
